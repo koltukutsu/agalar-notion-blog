@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <subtitle>Blog</subtitle>
+    <link href="/atom" rel="self" type="application/rss+xml"/>
+    <link href="/" />
+    <updated>2023-02-06T10:09:41.353Z</updated>
+    <id>My Notion Blog</id>
+    <entry>
+      <id>/blog/first-blog</id>
+      <title>First</title>
+      <link href="/blog/first-blog"/>
+      <updated>2023-02-05T21:00:00.687Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Semih birseyler soyledi</p><p>Semih birseyler soyledi</p>
+          <p class="more">
+            <a href="/blog/first-blog">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>M. Semih Babacan</name></author>
+    </entry>
+    <entry>
+      <id>/blog/first-blog-2</id>
+      <title>First2</title>
+      <link href="/blog/first-blog-2"/>
+      <updated>2023-02-05T21:00:00.687Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>What about the things that we have done so far!!</p><p>What about the things that we have done so far!!</p>
+          <p class="more">
+            <a href="/blog/first-blog-2">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>M. Semih Babacan</name></author>
+    </entry>
+  </feed>
